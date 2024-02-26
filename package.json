@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgeniiNoName/pure_functions.git"
+    "url": "git+https://github.com/poi1nt/pure_func.git"
   },
-  "author": "EvgeniiNoName",
+  "author": "Aleksy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniiNoName/pure_functions/issues"
+    "url": "https://github.com/poi1nt/pure_func/issues"
   },
-  "homepage": "https://github.com/EvgeniiNoName/pure_functions#readme",
+  "homepage": "https://github.com/poi1nt/pure_func#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.23.9",
