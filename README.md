@@ -1,1 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vb88iady3b80g3hc?svg=true)](https://ci.appveyor.com/project/EvgeniiNoName/pure-functions)
+# Bage
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ttoqq67ixm5350ur?svg=true)](https://ci.appveyor.com/project/poi1nt/pure-func)
